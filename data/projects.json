@@ -1,0 +1,38 @@
+[
+    {
+        "image": "img/portfolio/js1.png",
+        "caption": "Project1: Expanding cards",
+        "category": "js",
+        "link": "/projects/js/expanding-cards"
+    },
+    {
+        "image": "img/portfolio/cssHomer.png",
+        "caption": "Homer pure CSS",
+        "category": "css",
+        "link": "/projects/css/homer"
+    },
+    {
+        "image": "img/portfolio/cssShelf.png",
+        "caption": "Shelf pure CSS",
+        "category": "css",
+        "link": "/projects/css/shelf"
+    },
+    {
+        "image": "img/portfolio/cssAurora.png",
+        "caption": "Aurora camping",
+        "category": "css",
+        "link": "/projects/css/aurora"
+    },
+    {
+        "image": "img/portfolio/cssPricetable.png",
+        "caption": "Pricetable",
+        "category": "css",
+        "link": "/projects/css/pricetable"
+    },
+    {
+        "image": "img/portfolio/paint.png",
+        "caption": "Paint",
+        "category": "css",
+        "link": "/projects/css/paint"
+    }
+]
